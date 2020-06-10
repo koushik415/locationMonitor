@@ -1,0 +1,17 @@
+{
+  "name": "LocationMonitorPlugin",
+  "version": "0.0.1",
+  "description": "This is a test plugin for testing significant location change service",
+  "cordova": {
+    "id": "cordova_plugin_location_monitor",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "uqchakilam@acg.aaa.com",
+  "license": "ISC"
+}
