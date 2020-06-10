@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "This is a test plugin for testing significant location change service",
   "cordova": {
-    "id": "cordova_plugin_location_monitor",
+    "id": "cordova-plugin-location-monitor",
     "platforms": [
       "ios"
     ]
